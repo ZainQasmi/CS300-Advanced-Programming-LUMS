@@ -1,0 +1,10 @@
+{
+    "maxRequestsPerSite": 5,
+    "minFetchInterval": 1000,
+    "maxRequests": 100,
+    "initialUrls": [            
+        "http://www.espncricinfo.com",
+        "http://stackoverflow.com",
+        "http://www.spades.com.pk/"
+    ]
+}
